@@ -1,0 +1,22 @@
+{
+  "name": "ember",
+  "version": "1.0.0-pre.4",
+  "description": "Ember.js component",
+  "dependencies": {
+    "component/jquery": "1.9.1"
+  },
+  "development": {
+    "timoxley/assert": "*"
+  },
+  "keywords": [
+    "ember",
+    "emberjs",
+    "ember.js"
+  ],
+  "scripts": [
+    "index.js",
+    "lib/ember.js",
+    "lib/handlebars.js"
+  ],
+  "repo": "https://raw.github.com/kelonye/ember"
+}

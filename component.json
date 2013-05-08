@@ -1,0 +1,22 @@
+{
+  "name": "email-saver",
+  "repo": "WilliamHuey/saver",
+  "description": "Email saver component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "kelonye/ember": "*",
+    "kelonye/ember-data": "*",
+    "component/indexof": "*"
+  },
+  "local": [],
+  "paths": [
+    "../"
+  ],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "scripts": ["public/js/index.js"],
+  "license": "MIT"
+}
